@@ -1,0 +1,4 @@
+D:\Documents\03 - Studies\7 - CURSO ARQUITETURA - EDUARDO PIRES\Módulo Arquitetura I\Meu Projeto\Arquitetura Estudos\Arquitetura.OOP\bin\Debug\Arquitetura.OOP.dll
+D:\Documents\03 - Studies\7 - CURSO ARQUITETURA - EDUARDO PIRES\Módulo Arquitetura I\Meu Projeto\Arquitetura Estudos\Arquitetura.OOP\bin\Debug\Arquitetura.OOP.pdb
+D:\Documents\03 - Studies\7 - CURSO ARQUITETURA - EDUARDO PIRES\Módulo Arquitetura I\Meu Projeto\Arquitetura Estudos\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.dll
+D:\Documents\03 - Studies\7 - CURSO ARQUITETURA - EDUARDO PIRES\Módulo Arquitetura I\Meu Projeto\Arquitetura Estudos\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.pdb

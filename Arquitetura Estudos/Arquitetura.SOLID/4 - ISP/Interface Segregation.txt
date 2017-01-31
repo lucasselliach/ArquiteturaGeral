@@ -1,0 +1,33 @@
+﻿S.O.L.I.D is an acronym for the first five object-oriented design(OOD) principles by Robert C. Martin, popularly known as Uncle Bob.
+
+These principles, when combined together, make it easy for a programmer to develop software that are easy to maintain and extend. 
+They also make it easy for developers to avoid code smells, easily refactor code, and are also a part of the agile or adaptive 
+software development.
+
+S.O.L.I.D STANDS FOR:
+
+When expanded the acronyms might seem complicated, but they are pretty simple to grasp.
+
+S – Single-responsiblity principle
+O – Open-closed principle
+L – Liskov substitution principle
+I – Interface segregation principle
+D – Dependency Inversion Principle
+
+
+
+
+Interface segregation principle
+
+A client should never be forced to implement an interface that it doesn’t use or clients shouldn’t be forced to depend on 
+methods they do not use.
+
+
+
+
+
+
+
+
+Referencia
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
